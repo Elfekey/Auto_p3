@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="classes">
+  <test thread-count="3" name="testGuru(failed)" parallel="classes">
+    <classes>
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_2">
+        <methods>
+          <include name="test_1"/>
+        </methods>
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_2 -->
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_1">
+        <methods>
+          <include name="test_1"/>
+        </methods>
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_1 -->
+      <class name="Local_Project.Automation_Epic_Part_3.Test_Case_3">
+        <methods>
+          <include name="test_1"/>
+        </methods>
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_Case_3 -->
+    </classes>
+  </test> <!-- testGuru(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

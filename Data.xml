@@ -1,0 +1,12 @@
+
+
+<Test_Data>
+
+<web_directory>D:\Testing\programs\chromedriver_win32\\chromedriver.exe</web_directory>
+<web_directory>D:\Testing\programs\chromedriver_win32\\chromedriver.exe</web_directory>
+
+<WebSite>https://www.google.com/</WebSite>
+<WebSite>https://www.facebook.com/</WebSite>
+<WebSite>https://www.hotmail.com/</WebSite>
+
+</Test_Data>

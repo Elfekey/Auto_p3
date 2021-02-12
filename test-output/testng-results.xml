@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74329" started-at="2021-02-06T13:58:59Z" finished-at="2021-02-06T14:00:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74329" started-at="2021-02-06T13:58:59Z" finished-at="2021-02-06T14:00:14Z">
+      <class name="Local_Project.Automation_Epic_Part_3.weather2">
+        <test-method status="PASS" signature="Before_claas()[pri:0, instance:Local_Project.Automation_Epic_Part_3.weather2@229d10bd]" name="Before_claas" is-config="true" duration-ms="2587" started-at="2021-02-06T13:58:59Z" finished-at="2021-02-06T13:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_claas -->
+        <test-method status="PASS" signature="Weather_test()[pri:0, instance:Local_Project.Automation_Epic_Part_3.weather2@229d10bd]" name="Weather_test" duration-ms="67741" started-at="2021-02-06T13:59:02Z" finished-at="2021-02-06T14:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weather_test -->
+        <test-method status="PASS" signature="After_claas()[pri:0, instance:Local_Project.Automation_Epic_Part_3.weather2@229d10bd]" name="After_claas" is-config="true" duration-ms="3972" started-at="2021-02-06T14:00:10Z" finished-at="2021-02-06T14:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_claas -->
+      </class> <!-- Local_Project.Automation_Epic_Part_3.weather2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
